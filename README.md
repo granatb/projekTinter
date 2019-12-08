@@ -1,3 +1,1 @@
 # projekTinter
-
-devel branch
