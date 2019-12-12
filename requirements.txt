@@ -1,0 +1,9 @@
+numpy
+imgaug
+tqdm
+pandas
+opencv-python
+keras
+tensorflow
+xlrd
+
